@@ -21,17 +21,10 @@ This project is a simple arcade-style space shooter where the player controls a 
   - `Game Over Scene` displayed when all player lives are lost.
 <div align="center">
   <img src="https://i.postimg.cc/rmtGwLNH/Whats-App-Image-2025-05-17-at-06-44-48.jpg" alt="Demo Image" style="width: 200px; height: auto;" />
-</div>
-<div align="center">
   <img src="https://i.postimg.cc/MKtBxT8T/Whats-App-Image-2025-05-17-at-06-47-58-1.jpg" alt="Demo Image" style="width: 200px; height: auto;" />
-</div>
-<div align="center">
   <img src="https://i.postimg.cc/7Z62LkxN/Whats-App-Image-2025-05-17-at-06-47-58.jpg" alt="Demo Image" style="width: 200px; height: auto;" />
-</div>
-<div align="center">
   <img src="https://i.postimg.cc/4dC7wHp8/Whats-App-Image-2025-05-17-at-06-48-34.jpg" alt="Demo Image" style="width: 200px; height: auto;" />
 </div>
-
 
 - 🔫 **Shooting Mechanism**:  
   The spaceship can shoot bullets to destroy enemies.
