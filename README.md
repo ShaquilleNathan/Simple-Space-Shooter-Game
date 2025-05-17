@@ -38,7 +38,7 @@ This project is a simple arcade-style space shooter where the player controls a 
 ---
 
 ## 🕹️ Controls
-It's kind of limited (you have to click the object buton (left arrow key and right arrow key + shoot button)
+It's kind of limited (you have to click the object button (left arrow key and right arrow key + shoot button)
 - **Left/Right Arrow Keys** – Move the spaceship  
 - **Shoot Button** - Shoot laser to the Alien
 - **Collect healing icon** – Restore one life
